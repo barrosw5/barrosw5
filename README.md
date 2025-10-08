@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm barrosw5!
 
-<!--
-**barrosw5/barrosw5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-year Computer Engineering student (Engenharia Informática)  
+💻 Coding in Java, JavaScript, and C  
+🎮 Aspiring game developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 What I'm Learning
+
+- Java game development (LibGDX, Processing)
+- Building small, fun projects
+- Exploring graphics, animation, and simple AI
+
+---
+
+## 🚀 My Goals
+
+- Finish a simple 2D game
+- Share my progress and code
+- Connect with other game devs and students
+
+---
+
+## 💡 Fun Fact
+
+> “The best way to learn is by making!”  
+> Currently working on: [my first Java game project!](#)
+
+---
+
+**Let's make something awesome together!**
+
+[![GitHub](https://img.shields.io/badge/GitHub-barrosw5-blue?logo=github)](https://github.com/barrosw5)
