@@ -1,7 +1,7 @@
 # 👋 Hi, I'm barrosw5!
 
 🎓 2nd-year Computer Engineering student (Engenharia Informática)  
-💻 Coding mainly in Java  
+💻 Coding mainly in Java for now...
 🎮 Aspiring game developer
 
 
