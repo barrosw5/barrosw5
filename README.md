@@ -20,15 +20,5 @@
 - Share my progress and code
 - Connect with other game devs and students
 
----
-
-## 💡 Fun Fact
-
-> “The best way to learn is by making!”  
-> Currently working on: [my first Java game project!](#)
-
----
-
-**Let's make something awesome together!**
-
-[![GitHub](https://img.shields.io/badge/GitHub-barrosw5-blue?logo=github)](https://github.com/barrosw5)
+--- 
+> Currently working on: college work
