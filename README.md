@@ -4,5 +4,14 @@
 💻 Coding mainly in Java for now...  
 🎮 Check out my Unity games: [My Unity Games](https://play.unity.com/en/user/196a1a86-570a-4685-90f7-05a89a64376c)
 
---- 
+---
+
 > Currently working on: college work and some side projects...
+
+---
+
+## 🎨 Featured Project: Xavilwl Portfolio
+
+I’ve built a website to showcase the art of **Xavilwl**, a talented artist I’ve collaborated with.  
+👉 Website: [xavilwl](https://xavilwl.vercel.app/)  
+*(The repository is private, but you can explore the live project at the link above.)*
