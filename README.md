@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/martim-barros-457b7b38b/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <br />
   <a href="https://play.unity.com/en/user/196a1a86-570a-4685-90f7-05a89a64376c" target="_blank">
     <img src="https://img.shields.io/badge/Play_My_Unity_Games-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Games" />
   </a>
@@ -15,15 +14,9 @@
 ---
 
 <div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=barrosw5&show_icons=true&theme=radical" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barrosw5&layout=compact&theme=radical" />
-</a>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=barrosw5&theme=radical" alt="Stats" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barrosw5&theme=radical" alt="Languages" />
 </div>
 
 ---
