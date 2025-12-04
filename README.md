@@ -21,7 +21,7 @@
 
 ---
 
-> Currently working on: college work and some side projects...
+> Currently working on: college things and some side projects...
 
 ---
 
