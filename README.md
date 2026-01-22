@@ -1,32 +1,38 @@
-# 👋 Hi, I'm barrosw5!
+<div align="center">
 
-🎓 2nd-year Computer Engineering student (Engenharia Informática)
+# Martim Barros
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/martim-barros-457b7b38b/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://play.unity.com/en/user/196a1a86-570a-4685-90f7-05a89a64376c" target="_blank">
-    <img src="https://img.shields.io/badge/Play_My_Unity_Games-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Games" />
-  </a>
+**Computer Engineering Student | Game Developer | Web Enthusiast**
+
+<a href="https://www.linkedin.com/in/martim-barros-457b7b38b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br />
+
 </div>
 
 ---
+
+### About Me
+
+I am a 2nd-year Computer Engineering student (Engenharia Informática) based in Portugal. My academic focus is on software engineering principles, while my personal projects explore game development and web technologies.
+
+---
+
+### Technical Skills
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=barrosw5&theme=radical" alt="Stats" />
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=barrosw5&theme=radical" alt="Languages" />
 </div>
-
----
-
-> Currently working on: college things and some side projects...
-
----
-
-## 🎨 Featured Project: Xavilwl Portfolio
-
-I’ve built a website to showcase the art of **Xavilwl**, a talented artist I’ve collaborated with.  
-👉 Website: [xavilwl](https://xavilwl.vercel.app/)  
-*(The repository is private, but you can explore the live project at the link above.)*
