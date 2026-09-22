@@ -16,7 +16,7 @@
 
 ### About Me
 
-I am a 2nd-year Computer Engineering student (Engenharia Informática) based in Portugal. My academic focus is on software engineering principles, while my personal projects explore game development and web technologies.
+I am a 3nd-year Computer Engineering student (Engenharia Informática) based in Portugal. My academic focus is on software engineering principles, while my personal projects explore game development and web technologies.
 
 ---
 
