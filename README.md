@@ -3,4 +3,5 @@
     <img src="https://vinyl-barrosw5.vercel.app/api/vinyl" alt="What I'm listening to" />
   </a>
 </p>
-<p align="center"><sub>BPM data by <a href="https://getsongbpm.com">GetSongBPM</a></sub></p>
+<p align="center"><sub>Tempo data from <a href="https://www.deezer.com">Deezer</a></sub></p>
+
